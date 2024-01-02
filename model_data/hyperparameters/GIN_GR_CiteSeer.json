@@ -1,0 +1,11 @@
+{
+    "val_acc": 0.566,
+    "test_acc": 0.553,
+    "global_readout": true,
+    "dataset": "CiteSeer",
+    "n_layers": 5,
+    "hidden_dim": 128,
+    "learning_rate": 0.001,
+    "weight_decay": 0,
+    "drop_ratio": 0.2
+}
