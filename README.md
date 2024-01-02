@@ -29,7 +29,7 @@ System Requirements:
 To set up the project environment: 
 
 ```bash
-git clone https://github.com/123anonymous321/GRLExam
+git clone https://github.com/123anonymous321/Exam
 pip install -re requirements.txt
 ```
 
