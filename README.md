@@ -1,15 +1,15 @@
 # GRL Exam Research Project
 
-This is the official repository for our research project, as part of the GRL exam, 
+This is the official repository for the research project, as part of the GRL exam, 
 where we are investigating the following question:
 
-How does the addition of a global readout affect the expressive power of the Graph Isomorphism
-Network in node classification?
+*How does the addition of a global readout affect the expressive power of the Graph Isomorphism
+Network in node classification?*
 
 ## Project Overview
 
 In this study we introduced a global readout to the standard GIN model, aligning it more
-closely with the 1-WL heuristic, which is anticipated to enhance its expressive power, 
+closely with the folklore 1-WL test, which is anticipated to enhance its expressive power, 
 especially in node-level tasks. Our empirical evaluation, conducted on two distinct graph datasets,
 confirmed these theoretical insights, as we observed modest improvements
 in the GIN-GR model’s performance.
